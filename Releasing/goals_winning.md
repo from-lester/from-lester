@@ -5,14 +5,17 @@ nav_order: 1
 ---
 <div class="youtube-audio">
   <iframe 
-    width="300" 
-    height="60" 
     src="https://www.youtube.com/embed/bgAtK1A4DTE?rel=0&controls=1&autoplay=0" 
     frameborder="0" 
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>
+
+- TOC
+{:toc}
+
+## Beingness and freedom
 
 The number one program on a chart is separateness. The very first program we put in is wanting to be separate from the One, from the Oneness. The Oneness is our beingness. It's omnipresent. Right now your beingness is everywhere present. We start cutting ourselves off from it by saying "I'm going to be separate from it," and we put a circle around ourselves to encase our beingness into a thing called mind-body.
 
@@ -24,33 +27,38 @@ And the more you imagine, the further away you are from that top state of just b
 
 But there's one thing you can't let go of: that's the word "being." That's the part of you that has no limitation. That's the part of you that you're looking for in every last act you do. You're unhappy because you're not just being. Unhappiness - it's just moving away from beingness.
 
-So the more you try to be a body, the greater your unhappiness. There is no misery in life when we let go of identifying with the body and just identify with our being. This - are you sure you are? That's it. Period. Nothing else. That's it. Just need the KISS theory - it's so simple.
+So the more you try to be a body, the greater your unhappiness. There is no misery in life when we let go of identifying with the body and just identify with our beingness - are you？ Sure you are! That's it. Period. Nothing else. That's it. You see the KISS theory - it's so simple.
 
-How do you get rid of all the obstacles? Ego-programs - that's all it is. These programs put into the subconscious mind keep operating until we release them. You get these programs out of the mind, the mind goes quiet, and your beingness is so loud you cannot help but be self-obvious - to see to yourself as to what you are.
+How do you get rid of all the obstacles? AGFLAP - that's all it is. These programs put into the banks of the mind keep operating until we release them. You get these programs out of the mind, the mind goes quiet, and your beingness is so loud you cannot help but be self-obvious - to see to yourself as to what you are.
 
-Truth, reality, is that which never changes. And there's only one thing that never changes: the reality, the truth, our beingness. So we started from our beingness. We created a mind. The mind reflects all the parts. The mind creates all matter. And when you get involved in matter, everything matters, and you just get played by a bunch of nonsense.
 
-So we need to start going back up the chart, ridding ourselves of all these unconscious, deep programs - ego-programs and so forth - back to the point that I started with when I first spoke to you. Identify where you are, where you're going, what it is that needs to be done to get there.
+**(5:04)** Truth, reality, is that which never changes. And there's only one thing that never changes: the reality, the truth, our beingness. So we started from our beingness. We created a mind. The mind reflects all the parts. The mind creates all matter. And when you get involved in matter, everything matters, and you just get played by a bunch of nonsense.
+
+So we need to start going back up the chart, ridding ourselves of all these unconscious, deep programs - AGFLAP and so forth - back at the point that I started with when I first spoke to you. **Identify where you are, where you're going, what it is that needs to be done to get there.**
 
 Does an infinite being have to work for a living? Do the free ones have jobs? Let go of the importance of work. Of course, you've got to do that which you have to do - otherwise your program says "I will die." You need this carcass to play the game until you get back up to the top.
 
-The only purpose for being in this world is to discover our freedom. The only purpose to come here is to get rid of all the limitations. And where are the limitations? In the mind: "I'm afraid," "I can't," "I'm guilty," "I don't deserve it," "I'm angry," "I'm in apathy" - it operates up. The whole purpose of being here is to rid ourselves of all these limitations that are deeply programmed and are the accumulation of many, many millions of years, millions of lifetimes.
+## Keep releasing and take responsibility
 
-And yet, when you release at the bottom line, you can go free in a matter of months. Getting it constant gets you there. A momentum like you're into now - you're able to release. As you release, you get high. From the high place, you can reach down deep and pull up the fear of dying. When you're free of that fear of dying, look - it's much stronger: agony, the feeling of separation. But because you've released so much, when you've let go of the fear of dying, you can handle it. And you throw out the feeling of separation, and you're there - freedom with a capital "F."
+The only purpose for being in this world is to discover our freedom. The only purpose to come here is to get rid of all the limitations. And where are the limitations? In the mind: "I'm afraid," "I can't," "I'm guilty," "I don't deserve it," "I'm angry," "I'm in apathy" - yada yada yada. The whole purpose of being here is to rid ourselves of all these limitations that are deeply programmed and are **the accumulation of many, many millions of years, millions of lifetimes**.
+
+And yet, when you release at the bottom line, you can go free in a matter of months. Getting it constant gets you there. A momentum like you're into now - you're able to release. As you release, you get high. From the high place, you can reach down deep and pull up the fear of dying. When you're free of that fear of dying, look - it's much stronger: agony, the feeling of separation. But because you've released so much, when you've let go of the fear of dying, you can handle it. And you throw out the feeling of separation, and you're there - with a capital "T".
 
 Now, you must take responsibility to rid yourself of that which you have accumulated over the millions of years. If you don't take responsibility, you have programs in your subconscious, and you're saying "I've got no responsibility. I have nothing to do with it," so it remains.
 
-It's so important for you to take responsibility. And when something bad happens, think "Gee, look what I did. I caused this mess up." It takes an ability to do that. But if you'll take credit for the things you create that you don't like, it keeps you in the driver's seat. It keeps you in control. And as we know, control is not a bad word - not a bad thing. The want of it is.
+It's so important for you to take responsibility. And when something bad happens, say "Gee, look what *I* did. I caused this mess up." It takes an ability to do that. But if you'll take credit for the things you create that you don't like, it keeps you in the driver's seat. It keeps you in control. And as we know, control is not a bad word - not a bad thing. The want of it is.
 
-When we're free, we're in total control of the universe by mere effortless thought. When you're free, your mind is quiet - there are no thoughts there. So any thought you put in the mind is so concentrated it happens like that. Your mind is plagued with probably tens of thousands of thoughts right now, all tied in to the ego-programs. So when your mind goes quiet, it's concentrated, and in the mere thought, it happens immediately. It's such an effortless thought.
+**(10:20)** When we're free, we're in total control of the universe by mere effortless thought. When you're free, your mind is quiet - there are no thoughts there. So any thought you put in the mind is so concentrated it happens like that. Your mind is plagued with probably tens of thousands of thoughts right now, all tied in to the AGFLAP. So when your mind goes quiet, it's concentrated, and in the mere thought, it happens immediately. It's such an effortless thought.
 
-And "effortless" is a good word to judge yourself by. Check yourself: life, to the degree you have no effort in life - to that degree you are free. You don't realize how ridiculous you look, scratching for a living. It's such a... well, I won't say. But you must get to the top. You must get to the place where you master the world. Because if you're not winning, if you're not a winner, you have anti-programs: "I can't be a winner."
+And "effortless" is a good word to judge yourself by, check yourself by. To the degree you have no effort in life - to that degree you are free. You don't realize how ridiculous you look, scratching for a living. It's such a... well, I won't say. But you must get to the top. You must get to the place where you master the world. Because if you're not winning, if you're not a winner, you have anti-programs: "I can't be a winner."
 
-You must become a winner. You must achieve your goals so that you can bring up the anti-winning, the anti-goals, and rid yourself of them. The aversions to the world are stronger and far more subtle than the attachments. So when you go to be a winner, when you go for goals, up come your aversions, and you need to become a winner just to get the garbage up and out.
+You must become a winner. You must achieve your goals so that you can bring up the anti-winning, the anti-goals, and rid yourself of them. **The aversions to the world are stronger and far more subtle than the attachments.** So when you go to be a winner, when you go for goals, up come your aversions, and you need to become a winner just to get the garbage up and out.
 
 Your aversions are stronger and more subtle than your attachments. Your attachments are obvious: "I want this and I want that and I want money and I want beauty" - those are obvious. But the fact - the things you don't want - you don't look at, and that develops resistance, suppression, and resistance.
 
-So goals are very important on your way to becoming a winner. Take the brother of someone - Miss Aronian? These... to run your goal charts. Am I in as good a position as you used to be when you're running them? What you're doing is you write up on releasing the blocks to being a winner.
+## Goals
+
+So goals are very important on your way to becoming a winner. Take the brother of someone - Miss Aronin? These... to run your goal charts. Am I in as good a position as you used to be when you're running them? What you're doing is you write up on releasing the blocks to being a winner.
 
 You've got to be a total winner in life. They can have it happen if I remember right. You wrote a goal for an important client, part, Broadway show - correct me if I'm wrong - and I saw you, a terrific part, really fighting your way through. What was the name of it? "Knockout"? And you were knockout at it.
 
