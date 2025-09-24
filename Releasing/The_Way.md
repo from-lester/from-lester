@@ -1,10 +1,10 @@
 ---
 title: The Way
-parent: Releasing
+parent: Transcripts
 description: Lester's lecture to advanced students on June 5th, 1989
 has_toc: true
-back_to_top: true
-back_to_top_text: "Back to top"
+#back_to_top: true
+#back_to_top_text: "Back to top"
 ---
 - TOC
 {:toc}
