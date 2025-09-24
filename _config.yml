@@ -22,8 +22,7 @@ exclude:
   - docs/
   - LICENSE
   - Makefile
-  - sample.png
-  # - README.md
+  - README.md
 
 ### Theme settings
 

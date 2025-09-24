@@ -3,6 +3,16 @@ title: "Goals And Winning"
 parent: Transcripts
 nav_order: 1
 ---
+<div class="youtube-audio">
+  <iframe 
+    width="300" 
+    height="60" 
+    src="https://www.youtube.com/embed/bgAtK1A4DTE?rel=0&controls=1&autoplay=0" 
+    frameborder="0" 
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 The number one program on a chart is separateness. The very first program we put in is wanting to be separate from the One, from the Oneness. The Oneness is our beingness. It's omnipresent. Right now your beingness is everywhere present. We start cutting ourselves off from it by saying "I'm going to be separate from it," and we put a circle around ourselves to encase our beingness into a thing called mind-body.
 
