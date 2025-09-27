@@ -8,6 +8,17 @@ layout: default
 <script async src="https://hypothes.is/embed.js"></script>
 </head>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const toc = document.getElementById('markdown-toc');
+  const aside = document.querySelector('.toc-sidebar');
+  
+  if (toc && aside) {
+    aside.appendChild(toc);
+  }
+});
+</script>
+
 {% if page.title and page.title != '' %}
 <h1>{{ page.title }}</h1>
 {% endif %}
@@ -20,5 +31,13 @@ layout: default
 
 <hr>
 
-{{ content }}
+
+<div id="main-content">
+  <main>
+    {{ content }}
+  </main>
+  <aside class="toc-sidebar">
+    <!-- TOC will be moved here via JavaScript -->
+  </aside>
+</div>
 

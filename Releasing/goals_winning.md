@@ -12,7 +12,7 @@ nav_order: 1
   </iframe>
 </div>
 
-- TOC
+1. TOC
 {:toc}
 
 ## Beingness and freedom

@@ -8,9 +8,6 @@ description: Teachings from this Self-realized master
 url: https://from-lester.github.io
 baseurl: /lester
 incremental: true
-heading_anchors: true
-
-theme: just-the-docs
 
 defaults:
   - scope:
@@ -25,7 +22,10 @@ exclude:
   - README.md
 
 ### Theme settings
+theme: just-the-docs
 
+heading_anchors: true
+nav_enabled: true
 
 aux_links:
   "View source": "https://github.com/from-lester/lester"

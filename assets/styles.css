@@ -22,3 +22,44 @@
     height: calc(100vw * 9 / 16); /* Maintain 16:9 aspect ratio */
   }
 }
+
+
+
+
+#main-content {
+  position: relative;
+}
+
+main {
+  max-width: 100%;
+}
+
+.toc-sidebar {
+  position: fixed; /* Changed from sticky */
+  top: 60px;
+  right: 2rem; /* Position from the right edge */
+  width: 250px;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto;
+  z-index: 100;
+  
+  /* Add some visual separation */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+#markdown-toc {
+  background: rgba(248, 249, 250, 0.95); /* Slightly transparent */
+  backdrop-filter: blur(10px); /* Modern browsers */
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/* Hide on smaller screens */
+@media (max-width: 1200px) {
+  .toc-sidebar {
+    display: none;
+  }
+}
