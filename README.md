@@ -1,4 +1,4 @@
-# Transcripts from Lester Levenson's lectures
+To our great teacher: Lester Levenson
 
 ## Six Steps:
 
