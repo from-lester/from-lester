@@ -36,7 +36,7 @@ main {
 
 .toc-sidebar {
   position: fixed; /* Changed from sticky */
-  top: 60px;
+  top: 1rem;
   right: 2rem; /* Position from the right edge */
   width: 250px;
   max-height: calc(100vh - 4rem);

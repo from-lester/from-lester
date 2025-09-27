@@ -6,7 +6,7 @@ description: Teachings from this Self-realized master
 ### Build settings
 
 url: https://from-lester.github.io
-baseurl: /lester
+baseurl: /
 incremental: true
 
 defaults:
