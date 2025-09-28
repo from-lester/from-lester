@@ -3,10 +3,15 @@ layout: default
 # The theme's layout unfortunately doesn't add the `title` of a page as H1,
 # so this is done as an override here.
 ---
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
 <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
 <script async src="https://hypothes.is/embed.js"></script>
 </head>
+
+{% seo %}
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

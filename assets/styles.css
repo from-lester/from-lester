@@ -63,3 +63,17 @@ main {
     display: none;
   }
 }
+
+/* Adjust when sidebar container exists and is visible */
+#sidebar-container ~ * #site-nav,
+#sidebar-container + * #site-nav {
+  transform: translateX(-340px);
+  transition: transform 0.3s ease;
+}
+
+/* For Just the Docs specific elements */
+body:has(#sidebar-container[style*="display: block"]) .side-bar,
+body:has(#sidebar-container[style*="width"]) .side-bar {
+  transform: translateX(-340px);
+  transition: transform 0.3s ease;
+}
