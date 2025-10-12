@@ -6,8 +6,8 @@ has_toc: true
 #back_to_top: true
 #back_to_top_text: "Back to top"
 ---
-- TOC
-{:toc}
+<!-- - TOC
+{:toc} -->
 
 ## [The Way, Part 1](https://www.youtube.com/watch?v=WpgNTmjQgO0)
 (Recording duration: 29:55)
