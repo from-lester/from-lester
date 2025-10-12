@@ -3,15 +3,31 @@ site_description: A place to pay tribute to Lester Levenson
 site_url: https://from-lester.github.io
 theme:
   name: material
+  custom_dir: overrides
   features:
     - search.suggest
     - search.highlight
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - navigation.footer
 
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 plugins:
   - search
+  - offline
+#   - optimize
 #   - blog:
 #       enabled: true
 #       blog_dir: blog

@@ -1,16 +1,19 @@
 ---
-title: The Way
-parent: Transcripts
-description: Lester's lecture to advanced students on June 5th, 1989
-has_toc: true
-#back_to_top: true
-#back_to_top_text: "Back to top"
+title: The Way, Part 1
+comments: true
 ---
-<!-- - TOC
-{:toc} -->
 
-## [The Way, Part 1](https://www.youtube.com/watch?v=WpgNTmjQgO0)
-(Recording duration: 29:55)
+<iframe
+src="https://www.youtube.com/embed/WpgNTmjQgO0?rel=0&controls=1&autoplay=0"
+frameborder="0"
+allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+!!! note
+
+    Lester's lecture to advanced students on June 5th, 1989
+---
 
 **Lester:**  
 The way you've been doing it, the track wreck it is, and take almost forever. Because how long should it take to do a three-month job? Or three months or less. In other words, you were not doing it. You were toying with it, playing with it, using it to better what you really want, the world. If you were using it to go to the infinite being that you are, you already would have been free.
@@ -335,7 +338,3 @@ So please release only. Don't ask whys. Why this, why that. It’s a dumb questi
 So, try to get out of the habit of why, questioning. Just do it. Throwing up whys is specifically avoiding doing it. So, get wise, kill the whys, get W-I-S-E, and kill the W-H-Y-S.
 
 OK, I think we can end the session.
- 
-
-## The Way, Part 2
-

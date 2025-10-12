@@ -1,10 +1,10 @@
 ---
 title: "Goals And Winning"
-parent: Transcripts
-nav_order: 1
+comments: true
 ---
+
 <div class="youtube-audio">
-  <iframe 
+  <iframe
     src="https://www.youtube.com/embed/bgAtK1A4DTE?rel=0&controls=1&autoplay=0" 
     frameborder="0" 
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -12,8 +12,6 @@ nav_order: 1
   </iframe>
 </div>
 
-<!-- 1. TOC
-{:toc} -->
 
 ## Beingness and freedom
 
